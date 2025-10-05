@@ -1,0 +1,6 @@
+name,age,email,salary,joined
+Alice ,30,alice@example.com,55000,2023-01-15
+Bob, 25  ,bob@example.com,42000,2022-10-05
+Charlie, ,charlie@example.com,48000,2024-03-20
+Dana,28,dana@example.com,not available,2021-07-01
+Evan,35,evan@example.com,62000,2020-12-11
