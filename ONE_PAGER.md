@@ -7,4 +7,4 @@ We analyze the Student Performance (Maths) dataset, from 2 portoguese secondary 
 Key findings: study time correlates positively with G3, while past failures and absences correlate negatively. Our classifier predicts pass/fail with **ACCURACY = [0.675]**, our regressor estimates final grades with **R² = [-0.0872]**, and clustering with **k=3** yields **silhouette = [0.568]**, revealing distinct student profiles.  
 This demonstrates an end-to-end BI solution that can help schools identify at-risk students and target interventions.
 
-**GitHub:** https://github.com/USERNAME/REPO
+**GitHub:** https://github.com/montif16/exam-bi-project
