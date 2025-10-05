@@ -61,7 +61,8 @@
 ---
 
 ## How to Run
-
+- Ready an anaconda environment.
+- Personally run with anaconda and VS Code
 ```bash
 python -m venv .venv
 # Windows:
